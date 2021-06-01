@@ -21,6 +21,6 @@ dj-database-url==0.3.0
 python-decouple==3
 social-auth-app-django==2.1.0
 social-auth-core==1.6.0
-urllib3==1.22
+urllib3==1.26.5
 virtualenv==15.1.0
 whitenoise==3.3.1
